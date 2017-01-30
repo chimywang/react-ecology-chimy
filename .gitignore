@@ -4,3 +4,9 @@
 .idea/modules.xml
 .idea/workspace.xml
 .idea/
+/*/*/*/node_modules/
+/*/*/node_modules/
+/*/node_modules/
+/*/*/*/build/
+/*/*/build/
+/*/build/
